@@ -1,0 +1,4 @@
+this is text file
+thi is line 2
+
+hi there
